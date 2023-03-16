@@ -1,0 +1,16 @@
+.parent{
+    display:flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content:center;
+    align-items:center;
+    width:100vw;
+    height:100vh;
+    input{
+        color: red;
+    }
+    label{
+        padding:10px 20px;
+        background-color:lightgreen;
+    }
+}
